@@ -1,0 +1,20 @@
+{
+  "name": "my-node-examples",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "keywords": [
+    "[]"
+  ],
+  "author": "gabfranc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabfranc/my-node-examples/issues"
+  },
+  "homepage": "https://github.com/gabfranc/my-node-examples#readme"
+}
